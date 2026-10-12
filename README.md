@@ -60,14 +60,14 @@ The graph below shows the state of the internet in 1970s. Vertices represent com
 3. Classify each of the following paths as simple, not simple, or a cycle. State your reasoning!
 
 - **Path 1**: LINC, MIT, LINC, CASE
-- **Classification**:
-
+- **Classification**:Not Simple
+LINC appears twice, so a vertex is repeated.
 - **Path 2**: UCSB, SRI, STAN, UCLA, UCSB
-- **Classification**:
-
+- **Classification**:Cycle
+It starts and ends at the same vertex (UCSB), and the other vertices are all distinct.
 - **Path 3**: UCSB, SRI, UTAH
-- **Classification**:
-
+- **Classification**:Simple Path
+ All vertices are distinct and it does not repeat a vertex or return to the start.
 ## Connectivity and Trees
 
 - **Connected Graph**: A graph with paths between every pair of vertices.
