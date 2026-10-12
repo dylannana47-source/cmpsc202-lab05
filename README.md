@@ -23,11 +23,13 @@ For the following graph, list the vertices and edges. What is the size of the gr
 
 ![ex1](images/ex1.png)
 
-- **Vertices**: 
+- **Vertices**: {0, 1, 2, 3, 4}
 
-- **Edges**: 
+- **Edges**: {(0,1),(0,2),(0.3),(0,4)}
 
 - **Size**:
+Number of vertices :5
+Number of edges:4
 
 
 ## Paths and Distances
