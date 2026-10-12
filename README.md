@@ -25,11 +25,11 @@ For the following graph, list the vertices and edges. What is the size of the gr
 
 - **Vertices**: {0, 1, 2, 3, 4}
 
-- **Edges**: {(0,1),(0,2),(0.3),(0,4)}
+- **Edges**: {(0,1),(0,2),(0,3),(0,4)}
 
 - **Size**:
-Number of vertices :5
-Number of edges:4
+Number of vertices: 5
+Number of edges: 4
 
 
 ## Paths and Distances
@@ -79,6 +79,8 @@ Think through these with your partner(s) before answering the questions below. I
 
 1. A connected graph is defined as a graph with paths between every pair of vertices. If a graph with 10 vertices has exactly 8 edges, is it possible for the graph to be connected? Explain your reasoning based on the minimum number of edges required to link all vertices.
 
-
+- **Answer**: No. A connected graph with $n$ vertices needs at least $n-1$ edges. For 10 vertices, the minimum number of edges is $10-1=9$. Since 8 is less than 9, the graph cannot be connected.
 
 2. A tree is a connected graph with no cycles. If you take an existing tree and add exactly one new edge between two non-adjacent vertices, what structural property is immediately violated?
+
+- **Answer**: The graph immediately violates the "no cycles" property. Adding one edge between two non-adjacent vertices creates a cycle, so the graph is no longer a tree.
