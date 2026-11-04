@@ -47,15 +47,15 @@ The graph below shows the state of the internet in 1970s. Vertices represent com
 
 1. Find a path from RAND to SRI. What is the distance between these two vertices?
 
-- **Path**:RAND, SRI
+- **Path**: RAND, UCLA, SRI
 
-- **Distance**: 1
+- **Distance**: 2
 
 2. Find a path from RAND to MIT. What is the distance between these two vertices?
 
-- **Path**:RAND, SRI, UTAH, MIT
+- **Path**: RAND, BBN, MIT
 
-- **Distance**:3 
+- **Distance**: 2
 
 3. Classify each of the following paths as simple, not simple, or a cycle. State your reasoning!
 
