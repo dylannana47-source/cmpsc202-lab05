@@ -47,13 +47,13 @@ The graph below shows the state of the internet in 1970s. Vertices represent com
 
 1. Find a path from RAND to SRI. What is the distance between these two vertices?
 
-- **Path**: RAND, UCLA, SRI
+- **Path**: RAND, UCLA, SRI (each consecutive pair is connected by an edge)
 
 - **Distance**: 2
 
 2. Find a path from RAND to MIT. What is the distance between these two vertices?
 
-- **Path**: RAND, BBN, MIT
+- **Path**: RAND, BBN, MIT (each consecutive pair is connected by an edge)
 
 - **Distance**: 2
 
