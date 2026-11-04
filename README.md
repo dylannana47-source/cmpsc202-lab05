@@ -25,11 +25,11 @@ For the following graph, list the vertices and edges. What is the size of the gr
 
 - **Vertices**: {0, 1, 2, 3, 4}
 
-- **Edges**: {(0,1),(0,2),(0,3),(0,4)}
+- **Edges**: {(0,1),(0,2),(0,3),(1,2),(3,4)}
 
 - **Size**:
 Number of vertices: 5
-Number of edges: 4
+Number of edges: 5
 
 
 ## Paths and Distances
