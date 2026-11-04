@@ -83,4 +83,4 @@ Think through these with your partner(s) before answering the questions below. I
 
 2. A tree is a connected graph with no cycles. If you take an existing tree and add exactly one new edge between two non-adjacent vertices, what structural property is immediately violated?
 
-- **Answer**: The graph immediately violates the "no cycles" property. Adding one edge between two non-adjacent vertices creates a cycle, so the graph is no longer a tree.
+- **Answer**: The graph immediately violates the "no cycles" property. In a tree, every pair of vertices already has exactly one path between them; adding an edge between two non-adjacent vertices creates a second path and therefore a cycle. The graph is no longer a tree.
