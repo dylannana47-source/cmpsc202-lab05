@@ -25,7 +25,7 @@ For the following graph, list the vertices and edges. What is the size of the gr
 
 - **Vertices**: {0, 1, 2, 3, 4}
 
-- **Edges**: {(0,1),(0,2),(0,3),(1,2),(3,4)}
+- **Edges**: {0,1}, {0,2}, {0,3}, {1,2}, {3,4}
 
 - **Size**:
 Number of vertices: 5
